@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://java.sun.com/xml/ns/javaee" xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd" version="2.5">
+  <servlet>
+    <servlet-name>UploadServlet</servlet-name>
+    <servlet-class>servlets.UploadServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>UploadServlet</servlet-name>
+    <url-pattern>/servlets/UploadServlet</url-pattern>
+  </servlet-mapping>
+  <servlet>
+    <servlet-name>UploadServlet_edit</servlet-name>
+    <servlet-class>servlets.UploadServlet_edit</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>UploadServlet_edit</servlet-name>
+    <url-pattern>/servlets/UploadServlet_edit</url-pattern>
+  </servlet-mapping>
+</web-app>
