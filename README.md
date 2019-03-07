@@ -20,29 +20,21 @@ Internet开发课程设计——购物系统
 
 5、商品搜索页面
 用户在搜索栏中输入想要搜索的商品的模糊信息，如此处关键词为“奥利奥”，系统显示含有奥利奥的“奥利奥夹心饼干”商品。搜索结果中也会显示：对于关键词“奥利奥”检索结果如下。
-    ![Image text]
-(https://raw.githubusercontent.com/ZZhouMeng/Shooping/master/%E7%95%8C%E9%9D%A2%E8%AE%BE%E8%AE%A1%E5%9B%BE%E7%89%87/%E5%95%86%E5%93%81%E6%90%9C%E7%B4%A2%E7%95%8C%E9%9D%A2.png)
+![Image text](https://raw.githubusercontent.com/ZZhouMeng/Shooping/master/%E7%95%8C%E9%9D%A2%E8%AE%BE%E8%AE%A1%E5%9B%BE%E7%89%87/%E5%95%86%E5%93%81%E6%90%9C%E7%B4%A2%E7%95%8C%E9%9D%A2.png)
 
 6、查看商品详情页面
 点击任意商品的图片，即进入商品的详细信息页面。包括商品的名称、商品简介、商品售卖价格以及商品评分等级，点击星星即可评分，商品分数会动态变化，计算方式为（获得的总星级/被评价的次数）。在该页面中设置“加入购物车”按钮，点击后可以将该商品添加到购物车。页面下半部分还显示爆款商品，也可点击爆款商品的商品图片进入该商品的商品详情。
-     ![Image text]
-(https://raw.githubusercontent.com/ZZhouMeng/Shooping/master/%E7%95%8C%E9%9D%A2%E8%AE%BE%E8%AE%A1%E5%9B%BE%E7%89%87/%E6%9F%A5%E7%9C%8B%E5%95%86%E5%93%81%E8%AF%A6%E6%83%85%E9%A1%B5%E9%9D%A2.png)
+![Image text](https://raw.githubusercontent.com/ZZhouMeng/Shooping/master/%E7%95%8C%E9%9D%A2%E8%AE%BE%E8%AE%A1%E5%9B%BE%E7%89%87/%E6%9F%A5%E7%9C%8B%E5%95%86%E5%93%81%E8%AF%A6%E6%83%85%E9%A1%B5%E9%9D%A2.png)
 
 7、商品添加到购物车页面
 添加到购物车的商品显示在弹出的购物车框中，用户可以在其中修改购买的商品数量，查看商品的单价，以及所有添加在购物车的商品的价格总和。确认想要购买的商品之后，点击生成订单，跳转到付款中心。如果未登录则会跳转至登录页面请求登录，登录后，上方显示用户名，且此前的购物车内容得到保留。
-     ![Image text]
-(https://raw.githubusercontent.com/ZZhouMeng/Shooping/master/%E7%95%8C%E9%9D%A2%E8%AE%BE%E8%AE%A1%E5%9B%BE%E7%89%87/%E8%B4%AD%E7%89%A9%E8%BD%A6%E5%AD%98%E5%9C%A8%E5%95%86%E5%93%81%E7%95%8C%E9%9D%A2.png)
- ![Image text]
-(https://raw.githubusercontent.com/ZZhouMeng/Shooping/master/%E7%95%8C%E9%9D%A2%E8%AE%BE%E8%AE%A1%E5%9B%BE%E7%89%87/%E8%B4%AD%E7%89%A9%E8%BD%A6%E4%B8%8D%E5%AD%98%E5%9C%A8%E5%95%86%E5%93%81%E9%A1%B5%E9%9D%A2.png)
-
-
+![Image text](https://raw.githubusercontent.com/ZZhouMeng/Shooping/master/%E7%95%8C%E9%9D%A2%E8%AE%BE%E8%AE%A1%E5%9B%BE%E7%89%87/%E8%B4%AD%E7%89%A9%E8%BD%A6%E5%AD%98%E5%9C%A8%E5%95%86%E5%93%81%E7%95%8C%E9%9D%A2.png)
+![Image text](https://raw.githubusercontent.com/ZZhouMeng/Shooping/master/%E7%95%8C%E9%9D%A2%E8%AE%BE%E8%AE%A1%E5%9B%BE%E7%89%87/%E8%B4%AD%E7%89%A9%E8%BD%A6%E4%B8%8D%E5%AD%98%E5%9C%A8%E5%95%86%E5%93%81%E9%A1%B5%E9%9D%A2.png)
 
 8、付款中心界面
 购物车中的商品，点击生成订单后可以生成相应订单，并在订单页面选择相应的收货地址信息。订单默认使用用户的默认地址，确认购买的商品和商品数量之后，点击提交订单，系统会从当前用户中扣除对应金额。支付成功与失败均有相关提示。
-     ![Image text]
-(https://raw.githubusercontent.com/ZZhouMeng/Shooping/master/%E7%95%8C%E9%9D%A2%E8%AE%BE%E8%AE%A1%E5%9B%BE%E7%89%87/%E4%BB%98%E6%AC%BE%E4%B8%AD%E5%BF%83%E7%95%8C%E9%9D%A2.png)
-    ![Image text]
-(https://raw.githubusercontent.com/ZZhouMeng/Shooping/master/%E7%95%8C%E9%9D%A2%E8%AE%BE%E8%AE%A1%E5%9B%BE%E7%89%87/%E7%94%A8%E6%88%B7%E4%B8%AA%E4%BA%BA%E4%BF%A1%E6%81%AF.png)
+![Image text](https://raw.githubusercontent.com/ZZhouMeng/Shooping/master/%E7%95%8C%E9%9D%A2%E8%AE%BE%E8%AE%A1%E5%9B%BE%E7%89%87/%E4%BB%98%E6%AC%BE%E4%B8%AD%E5%BF%83%E7%95%8C%E9%9D%A2.png)
+![Image text](https://raw.githubusercontent.com/ZZhouMeng/Shooping/master/%E7%95%8C%E9%9D%A2%E8%AE%BE%E8%AE%A1%E5%9B%BE%E7%89%87/%E7%94%A8%E6%88%B7%E4%B8%AA%E4%BA%BA%E4%BF%A1%E6%81%AF.png)
 
 9、用户个人信息界面
 用户登录后，登录注册按钮变为个人信息按钮，点击可查看个人信息。同时，也可以在个人信息界面里添加收货地址和设置默认地址，也可以修改和删除已添加的收货地址信息。
