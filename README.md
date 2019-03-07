@@ -4,7 +4,7 @@ Internet开发课程设计——购物系统
 
 1、购物系统登录界面
 购物系统登陆分为管理员和普通用户，Login.jsp页面填写表单，数据传递到CheckLogin.jsp页面，CheckLogin.jsp页面根据表单中的用户名查询数据库，判断用户数据是否填写正确，判定用户能否登陆成功，未登陆成功则跳转回登录界面重新填写登录信息。
- 
+ ![Image text](https://raw.githubusercontent.com/ZZhouMeng/Shooping/master/%E7%95%8C%E9%9D%A2%E8%AE%BE%E8%AE%A1%E5%9B%BE%E7%89%87/%E4%BB%98%E6%AC%BE%E4%B8%AD%E5%BF%83%E7%95%8C%E9%9D%A2.png)
  
 2、购物系统注册界面
 用户点击“点我注册”按钮进入注册界面。注册用户时，用户需要填写用户名、密码、确认密码、邮箱和电话号码，这些内容都是必填项目且默认注册为普通用户。
