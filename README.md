@@ -8,15 +8,15 @@ Internet开发课程设计——购物系统
  
 2、购物系统注册界面
 用户点击“点我注册”按钮进入注册界面。注册用户时，用户需要填写用户名、密码、确认密码、邮箱和电话号码，这些内容都是必填项目且默认注册为普通用户。
-  ![Image text](https://raw.githubusercontent.com/ZZhouMeng/Shooping/master/%E7%95%8C%E9%9D%A2%E8%AE%BE%E8%AE%A1%E5%9B%BE%E7%89%87/%E8%B4%AD%E7%89%A9%E7%B3%BB%E7%BB%9F%E6%B3%A8%E5%86%8C%E7%95%8C%E9%9D%A2.png)
+![Image text](https://raw.githubusercontent.com/ZZhouMeng/Shooping/master/%E7%95%8C%E9%9D%A2%E8%AE%BE%E8%AE%A1%E5%9B%BE%E7%89%87/%E8%B4%AD%E7%89%A9%E7%B3%BB%E7%BB%9F%E6%B3%A8%E5%86%8C%E7%95%8C%E9%9D%A2.png)
 
 3、购物系统首页
 图中是还未登陆的购物系统。系统的顶部有搜索框、购物车、用户个人信息。页面的版头显示“首页”、“订单查询”、“关于我们”、类别导航栏、动态推广栏这五部分内容。爆款商品中显示的是商品库中销售量前四的热卖商品，通过点击“加入购物车”按钮能够把商品添加到购物车。
-   ![Image text](https://raw.githubusercontent.com/ZZhouMeng/Shooping/master/%E7%95%8C%E9%9D%A2%E8%AE%BE%E8%AE%A1%E5%9B%BE%E7%89%87/%E8%B4%AD%E7%89%A9%E7%B3%BB%E7%BB%9F%E9%A6%96%E9%A1%B5.jpg)
+![Image text](https://raw.githubusercontent.com/ZZhouMeng/Shooping/master/%E7%95%8C%E9%9D%A2%E8%AE%BE%E8%AE%A1%E5%9B%BE%E7%89%87/%E8%B4%AD%E7%89%A9%E7%B3%BB%E7%BB%9F%E9%A6%96%E9%A1%B5.jpg)
 
 4、商品分类页面
 用户在系统左侧分类导航栏中可以任选其一分类，查看该分类下的所有货物，此处选择的是零食分类的商品。
-   ![Image text]
+![Image text]
 (https://raw.githubusercontent.com/ZZhouMeng/Shooping/master/%E7%95%8C%E9%9D%A2%E8%AE%BE%E8%AE%A1%E5%9B%BE%E7%89%87/%E5%95%86%E5%93%81%E5%88%86%E7%B1%BB%E9%A1%B5%E9%9D%A2.png)
 
 5、商品搜索页面
