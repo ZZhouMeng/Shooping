@@ -39,7 +39,6 @@ Internet开发课程设计——购物系统
 9、用户个人信息界面
 用户登录后，登录注册按钮变为个人信息按钮，点击可查看个人信息。同时，也可以在个人信息界面里添加收货地址和设置默认地址，也可以修改和删除已添加的收货地址信息。
  ![Image text](https://raw.githubusercontent.com/ZZhouMeng/Shooping/master/%E7%95%8C%E9%9D%A2%E8%AE%BE%E8%AE%A1%E5%9B%BE%E7%89%87/%E7%94%A8%E6%88%B7%E4%B8%AA%E4%BA%BA%E4%BF%A1%E6%81%AF.png)
- ![Image text](https://raw.githubusercontent.com/ZZhouMeng/Shooping/master/%E7%95%8C%E9%9D%A2%E8%AE%BE%E8%AE%A1%E5%9B%BE%E7%89%87/%E5%95%86%E5%93%81%E6%90%9C%E7%B4%A2%E7%95%8C%E9%9D%A2.png)
  ![Image text](https://raw.githubusercontent.com/ZZhouMeng/Shooping/master/%E7%95%8C%E9%9D%A2%E8%AE%BE%E8%AE%A1%E5%9B%BE%E7%89%87/%E6%B7%BB%E5%8A%A0%E6%94%B6%E8%B4%A7%E5%9C%B0%E5%9D%80.png)
 
 10、管理员发布商品界面
@@ -48,17 +47,19 @@ Internet开发课程设计——购物系统
  
 11、管理员商品管理
 管理员可以点击“商品管理”页面，分页查看所有商品信息，可以对任一商品进行修改或删除，同时也可以在不同分类下的商品进行修改或添加商品。
-![Image text](https://raw.githubusercontent.com/ZZhouMeng/Shooping/master/%E7%95%8C%E9%9D%A2%E8%AE%BE%E8%AE%A1%E5%9B%BE%E7%89%87/%E5%95%86%E5%93%81%E6%90%9C%E7%B4%A2%E7%95%8C%E9%9D%A2.png)
+![Image text](https://raw.githubusercontent.com/ZZhouMeng/Shooping/master/%E7%95%8C%E9%9D%A2%E8%AE%BE%E8%AE%A1%E5%9B%BE%E7%89%87/%E5%85%A8%E9%83%A8%E5%95%86%E5%93%81%E7%AE%A1%E7%90%86%E9%A1%B5%E9%9D%A2.png)
+![Image text](https://raw.githubusercontent.com/ZZhouMeng/Shooping/master/%E7%95%8C%E9%9D%A2%E8%AE%BE%E8%AE%A1%E5%9B%BE%E7%89%87/%E5%88%86%E7%B1%BB%E5%95%86%E5%93%81%E7%AE%A1%E7%90%86%E9%A1%B5%E9%9D%A2.png)
 
 12、管理员修改商品信息
 点击“修改”按钮后会跳转到修改商品信息界面，页面上会在相应的位置显示之前发布的新闻内容，用户只需要在这个基础上进行修改就行了。然后点击“提交”，会重新跳转到商品展示界面，并会看到之前修改的商品的信息已经变成最新的了。
-![Image text](https://raw.githubusercontent.com/ZZhouMeng/Shooping/master/%E7%95%8C%E9%9D%A2%E8%AE%BE%E8%AE%A1%E5%9B%BE%E7%89%87/%E5%95%86%E5%93%81%E6%90%9C%E7%B4%A2%E7%95%8C%E9%9D%A2.png)
+![Image text](https://raw.githubusercontent.com/ZZhouMeng/Shooping/master/%E7%95%8C%E9%9D%A2%E8%AE%BE%E8%AE%A1%E5%9B%BE%E7%89%87/%E5%95%86%E5%93%81%E4%BF%A1%E6%81%AF%E4%BF%AE%E6%94%B9.png
  
 13、订单管理
 a.先判断用户类型，如果是管理员可以在订单管理界面中查看所有正在进行或已经结束的订单状态。如果是普通用户，可以查询当前用户的所有订单的相关信息。
 b.点击订单详情查看详情。如果当前用户是管理员，则可以对待发货的订单点击变成发货处理。如果当前为普通用户，收到配送的商品后，可以对已发货的订单可以确认收货，点击后订单状态将变成已完成。已完成的订单只能查看。
-![Image text](https://raw.githubusercontent.com/ZZhouMeng/Shooping/master/%E7%95%8C%E9%9D%A2%E8%AE%BE%E8%AE%A1%E5%9B%BE%E7%89%87/%E5%95%86%E5%93%81%E6%90%9C%E7%B4%A2%E7%95%8C%E9%9D%A2.png)
+![Image text](https://raw.githubusercontent.com/ZZhouMeng/Shooping/master/%E7%95%8C%E9%9D%A2%E8%AE%BE%E8%AE%A1%E5%9B%BE%E7%89%87/%E8%AE%A2%E5%8D%95%E7%AE%A1%E7%90%86%E4%B8%AD%E6%9F%A5%E7%9C%8B%E6%89%80%E6%9C%89%E8%AE%A2%E5%8D%95.png)
+![Image text](https://raw.githubusercontent.com/ZZhouMeng/Shooping/master/%E7%95%8C%E9%9D%A2%E8%AE%BE%E8%AE%A1%E5%9B%BE%E7%89%87/%E7%AE%A1%E7%90%86%E5%91%98%E5%AF%B9%E8%AE%A2%E5%8D%95%E5%8F%91%E8%B4%A7%E5%A4%84%E7%90%86.png)
+![Image text](https://raw.githubusercontent.com/ZZhouMeng/Shooping/master/%E7%95%8C%E9%9D%A2%E8%AE%BE%E8%AE%A1%E5%9B%BE%E7%89%87/%E6%99%AE%E9%80%9A%E7%94%A8%E6%88%B7%E7%A1%AE%E8%AE%A4%E6%94%B6%E8%B4%A7.png)
 
-    ![Image text]
-(https://raw.githubusercontent.com/ZZhouMeng/Shooping/master/%E7%95%8C%E9%9D%A2%E8%AE%BE%E8%AE%A1%E5%9B%BE%E7%89%87/%E5%95%86%E5%93%81%E6%90%9C%E7%B4%A2%E7%95%8C%E9%9D%A2.png)
+
 
