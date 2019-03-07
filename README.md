@@ -16,8 +16,7 @@ Internet开发课程设计——购物系统
 
 4、商品分类页面
 用户在系统左侧分类导航栏中可以任选其一分类，查看该分类下的所有货物，此处选择的是零食分类的商品。
-![Image text]
-(https://raw.githubusercontent.com/ZZhouMeng/Shooping/master/%E7%95%8C%E9%9D%A2%E8%AE%BE%E8%AE%A1%E5%9B%BE%E7%89%87/%E5%95%86%E5%93%81%E5%88%86%E7%B1%BB%E9%A1%B5%E9%9D%A2.png)
+![Image text](https://raw.githubusercontent.com/ZZhouMeng/Shooping/master/%E7%95%8C%E9%9D%A2%E8%AE%BE%E8%AE%A1%E5%9B%BE%E7%89%87/%E5%95%86%E5%93%81%E5%88%86%E7%B1%BB%E9%A1%B5%E9%9D%A2.png)
 
 5、商品搜索页面
 用户在搜索栏中输入想要搜索的商品的模糊信息，如此处关键词为“奥利奥”，系统显示含有奥利奥的“奥利奥夹心饼干”商品。搜索结果中也会显示：对于关键词“奥利奥”检索结果如下。
