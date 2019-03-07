@@ -52,7 +52,7 @@ Internet开发课程设计——购物系统
 
 12、管理员修改商品信息
 点击“修改”按钮后会跳转到修改商品信息界面，页面上会在相应的位置显示之前发布的新闻内容，用户只需要在这个基础上进行修改就行了。然后点击“提交”，会重新跳转到商品展示界面，并会看到之前修改的商品的信息已经变成最新的了。
-![Image text](https://raw.githubusercontent.com/ZZhouMeng/Shooping/master/%E7%95%8C%E9%9D%A2%E8%AE%BE%E8%AE%A1%E5%9B%BE%E7%89%87/%E5%95%86%E5%93%81%E4%BF%A1%E6%81%AF%E4%BF%AE%E6%94%B9.png
+![Image text](https://raw.githubusercontent.com/ZZhouMeng/Shooping/master/%E7%95%8C%E9%9D%A2%E8%AE%BE%E8%AE%A1%E5%9B%BE%E7%89%87/%E5%95%86%E5%93%81%E4%BF%A1%E6%81%AF%E4%BF%AE%E6%94%B9.png)
  
 13、订单管理
 a.先判断用户类型，如果是管理员可以在订单管理界面中查看所有正在进行或已经结束的订单状态。如果是普通用户，可以查询当前用户的所有订单的相关信息。
